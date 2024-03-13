@@ -1,6 +1,12 @@
 ﻿#include <iostream>
+#include "Header.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	int a;
+	std::cin >> a;
+	std::cout << "Hello world!\n";
+	std::cout << std::endl;
+
+	foo(a);
 }
