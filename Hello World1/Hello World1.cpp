@@ -5,8 +5,15 @@ int main()
 {
 	int a;
 	std::cin >> a;
-	std::cout << "Hallo world!\n";
+	std::cout << "lol";
 	std::cout << std::endl;
+	std::cout << "lol";
+	std::cout << "lol";
+	std::cout << "lol";
+	std::cout << "lol";
+	std::cout << "lol";
+	std::cout << "lol";
+
 	std::cout << "Hello world!\n";
 	std::cout << "Hello world!\n";
 	std::cout << "Hello world!\n";
